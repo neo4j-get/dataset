@@ -1,0 +1,20 @@
+[
+  {
+    "npm":"2535131008",
+    "nama":"Ardika",
+    "jenis_kelamin":"Laki-laki",
+    "status":"lulus",
+    "tahun_lulus":2024,
+    "prodi":"Teknik Informatika",
+    "fakultas":"Teknik"
+  },
+  {
+    "npm":"2535131009",
+    "nama":"Zahrah",
+    "jenis_kelamin":"Perempuan",
+    "status":"lulus",
+    "tahun_lulus":2024,
+    "prodi":"Teknik Informatika",
+    "fakultas":"Teknik"
+  }
+]
